@@ -6,13 +6,13 @@
 filename=oldPublicIP #REPLACE name of file to store old Ips
 
 #server VPN
-server="78.136.126.227" #REPLACE server name if needed
+server="SERVER" #REPLACE server name if needed
 
 #remitent of the webRequest, to know of whom is the public ip
 remitent='rpi' #REPLACE with remitent, if you are using more than one device in same sheet
 
 #IFTTT secret key
-secret_key="b3wtM_LanB0sOIjVy_vMki" #REPLACE with your key
+secret_key="KEY" #REPLACE with your key
 
 #END_STATIC_VARIABLES
 
